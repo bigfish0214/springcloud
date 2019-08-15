@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ad-binlog-common" />
+        <module name="ad-binlog-kafka" />
         <module name="ad-common" />
         <module name="ad-dashboard" />
         <module name="ad-eureka" />
